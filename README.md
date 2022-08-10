@@ -9,7 +9,7 @@
 
 Visitor count:
 
-  <img src="" alt="WIP" /> <!--https://profile-counter.glitch.me/---/count.svg -->
+![](https://komarev.com/ghpvc/?username=encodi&label=PROFILE+VIEWS)
 </h3>
 
 ## 🖥️ Languages and Tools I've worked with:
