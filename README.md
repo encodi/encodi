@@ -6,9 +6,6 @@
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/encodi11/) or [E-Mail](mailto:encodari@gmail.com).
 
 <h3 align="center">
-
-Visitor count:
-
 ![](https://komarev.com/ghpvc/?username=encodi&label=PROFILE+VIEWS)
 </h3>
 
