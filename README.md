@@ -6,7 +6,7 @@
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/encodi11/) or [E-Mail](mailto:encodari@gmail.com).
 
 <h3 align="center">
-👀![](https://komarev.com/ghpvc/?username=encodi&label=PROFILE+VIEWS)
+- 👀![](https://komarev.com/ghpvc/?username=encodi&label=PROFILE+VIEWS)
 </h3>
 
 ## 🖥️ Languages and Tools I've worked with:
