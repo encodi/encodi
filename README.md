@@ -7,8 +7,9 @@
 
 <h3 align="center">
 
-👀👀👀
+👀
 ![](https://komarev.com/ghpvc/?username=encodi&label=PROFILE+VIEWS)
+👀
 </h3>
 
 ## 🖥️ Languages and Tools I've worked with:
