@@ -1,6 +1,6 @@
 <h1 align="Center">  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" /> I'm Enrique <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40px"></h1>
 
-- 🧔🏻 I'm 40 years old and I'm from Merida, Yucatan.
+- 🧔🏻 I have 20+ years of experience as a software engineer, i'm from Merida, Yucatan.
 - 🎓 I studied Physics Engineering and Software Engineering at [Universidad Autónoma de Yucatán](https://uady.mx).
 - 🌐 Checkout my [Portfolio - WIP](https://) to find out more about me and my projects.
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/encodi11/) or [E-Mail](mailto:encodari@gmail.com).
