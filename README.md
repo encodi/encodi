@@ -21,8 +21,8 @@
 
 - <h3>⚙️ Backend:</h3>
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60">](https://nodejs.org) | [<img src="https://user-images.githubusercontent.com/58083159/144481306-e4af20fd-e4be-48dd-9286-2fa1773e6395.png" alt="expressjs" width="60">](https://expressjs.com) | [<img src="https://user-images.githubusercontent.com/58083159/144489604-151843e5-4b60-4ca7-b593-8992e23674e3.png" alt="mongoose" width="60">](https://mongoosejs.com/) | [<img src="https://user-images.githubusercontent.com/58083159/144488112-72151ec2-30ed-4679-b04f-38110ec38fa3.png" alt="hibernate" width="60">](https://hibernate.org/) | [<img src="https://hapi.dev/img/hapi.svg" alt="hapijs" width="60" />](https://hapi.dev/)
-|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60">](https://nodejs.org) | [<img src="https://user-images.githubusercontent.com/58083159/144481306-e4af20fd-e4be-48dd-9286-2fa1773e6395.png" alt="expressjs" width="60">](https://expressjs.com) | [<img src="https://user-images.githubusercontent.com/58083159/144489604-151843e5-4b60-4ca7-b593-8992e23674e3.png" alt="mongoose" width="60">](https://mongoosejs.com/) | [<img src="https://hapi.dev/img/hapi.svg" alt="hapijs" width="60" />](https://hapi.dev/)
+|---|---|---|---|
 
 - <h3>🛢 Databases:</h3>
 
